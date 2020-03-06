@@ -9,7 +9,4 @@ import { Component, OnInit } from '@angular/core';
 })
 export class DashboardComponent implements OnInit {
 
-//  users: User[];
-
-  //constructor(private userService: UserService) { }
 }

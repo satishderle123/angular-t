@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent  {
   name = 'Angular';
+
+  myAppComponentFunction(){
+    console.clear;
+    console.log("Hello Function in AppComponent");
+  }
 }
